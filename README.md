@@ -2,6 +2,10 @@
 
 ### 1 - TOTAL VENDIDO, CUSTO E LUCRO (DIÁRIO)
 
+| TOTAL VENDIDO | CUSTO | LUCRO |
+---------------------------------
+| 34.0 | 12.0 | 22 |
+
 ### 2 - TICKET MÉDIO (DIÁRIO)
 
 ### 3 - MÉDIA DE PRODUTOS POR ATENDIMENTO (DIÁRIO)
