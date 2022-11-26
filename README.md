@@ -11,14 +11,20 @@
  - ORACLE
 
 ### 1 - TOTAL VENDIDO, CUSTO E LUCRO (DIÁRIO)
-#### RETORNO DEVER DO TIPO FLOAT
 
 | TOTAL VENDIDO | CUSTO | LUCRO |
+| :---: | :---: | :---: |
+| FLOAT | FLOAT | FLOAT |
 | :---: | :---: | :---: |
 | 45000 | 27000 | 18000 |
 
 ### 2 - TICKET MÉDIO (DIÁRIO)
-#### RETORNO DEVER DO TIPO FLOAT
+
+| TICKET MÉDIO |
+| :---: |
+| FLOAT |
+| :---: |
+| 45000 |
 
 ### 3 - MÉDIA DE PRODUTOS POR ATENDIMENTO (DIÁRIO)
 #### RETORNO DEVER DO TIPO FLOAT
