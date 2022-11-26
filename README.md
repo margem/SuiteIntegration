@@ -1,8 +1,8 @@
 # MANUAL DE INTEGRAÇÃO SUITE MPONTOM
 
-###### Este documento tem como finalidade apresentar à equipe de desenvolvimento da empresa parceira informações essenciais para a integração do MARGEM, versão 3.0, ao seu sistema, assim como orientar sobre as consultas que devem ser viabilizadas e os retornos previstos pela ferramenta.
+###### Este documento tem como finalidade apresentar à equipe de desenvolvimento da empresa parceira informações essenciais para a integração do módulo MARGEM, versão 5.0, ao seu sistema, assim como orientar sobre as consultas que devem ser viabilizadas e os retornos previstos pela ferramenta.
 
-###### O MARGEM é compatível com os seguintes sistemas de gerenciamento de banco de dados:
+###### O cliente MARGEM é compatível com os seguintes sistemas de gerenciamento de banco de dados:
  - MYSQL
  - MS SQL SERVER
  - POSTGRESQL
