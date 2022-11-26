@@ -14,7 +14,7 @@
 
 ###### SUGESTÃO DE PARAMETROS: ID E DATA (DATETIME);
 
-##### EXEMPLO
+##### EXEMPLO DE RETORNO
 | TOTAL VENDIDO | CUSTO | LUCRO |
 | :---: | :---: | :---: |
 | FLOAT | FLOAT | FLOAT |
@@ -24,7 +24,7 @@
 
 ###### SUGESTÃO DE PARAMETROS: ID E DATA (DATETIME);
 
-##### EXEMPLO 
+##### EXEMPLO DE RETORNO 
 | TICKET MÉDIO |
 | :---: |
 | FLOAT |
@@ -34,7 +34,7 @@
 
 ###### SUGESTÃO DE PARAMETROS: ID E DATA (DATETIME);
 
-##### EXEMPLO 
+##### EXEMPLO DE RETORNO 
 | PRODUTOS POR ATENDIMENTO |
 | :---: |
 | FLOAT |
@@ -44,7 +44,7 @@
 
 ###### SUGESTÃO DE PARAMETROS: ID E DATA (DATETIME);
 
-##### EXEMPLO 
+##### EXEMPLO DE RETORNO 
 | CUPONS |
 | :---: |
 | FLOAT |
@@ -54,7 +54,7 @@
 
 ###### SUGESTAO DE PARAMETROS: ID E DATA (DATETIME);
 
-##### EXEMPLO 
+##### EXEMPLO DE RETORNO 
 | CUPONS CANCELADOS|
 | :---: |
 | FLOAT |
@@ -64,7 +64,7 @@
 
 ###### SUGESTÃO DE PARAMETROS: ID E DATA (DATETIME);
 
-##### EXEMPLO 
+##### EXEMPLO DE RETORNO 
 
 | HORA | VALOR | CUPONS | ITENS | MEDIA ITENS | VEDIA VALOR | 
 | :---: | :---: | :---: | :---: |  :---: | :---: | 
