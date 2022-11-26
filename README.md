@@ -15,7 +15,6 @@
 | TOTAL VENDIDO | CUSTO | LUCRO |
 | :---: | :---: | :---: |
 | FLOAT | FLOAT | FLOAT |
-| :---: | :---: | :---: |
 | 45000 | 27000 | 18000 |
 
 ### 2 - TICKET MÉDIO (DIÁRIO)
@@ -23,7 +22,6 @@
 | TICKET MÉDIO |
 | :---: |
 | FLOAT |
-| :---: |
 | 45000 |
 
 ### 3 - MÉDIA DE PRODUTOS POR ATENDIMENTO (DIÁRIO)
