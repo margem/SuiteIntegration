@@ -1,10 +1,8 @@
 # MANUAL DE INTEGRAÇÃO SUITE MPONTOM
 
-### 1 - TOTAL VENDIDO, CUSTO E LUCRO (DIÁRIO)
+###### Este documento tem como finalidade apresentar à equipe de desenvolvimento da empresa parceira informações essenciais para a integração do MARGEM, versão 3.0, ao seu sistema, assim como orientar sobre as consultas que devem ser viabilizadas e os retornos previstos pela ferramenta.
 
-| TOTAL VENDIDO | CUSTO | LUCRO |
----------------------------------
-| 34.0 | 12.0 | 22 |
+### 1 - TOTAL VENDIDO, CUSTO E LUCRO (DIÁRIO)
 
 ### 2 - TICKET MÉDIO (DIÁRIO)
 
