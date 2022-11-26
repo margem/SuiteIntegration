@@ -12,6 +12,13 @@
 
 ### 1 - TOTAL VENDIDO, CUSTO E LUCRO (DIÁRIO)
 
+\begin{table}[]
+\begin{tabular}{lll}
+TOTAL VENDIDO & CUSTO & LUCRO \\
+\multicolumn{1}{c}{40000} & \multicolumn{1}{c}{13000} & \multicolumn{1}{c}{27000}
+\end{tabular}
+\end{table}
+
 ### 2 - TICKET MÉDIO (DIÁRIO)
 
 ### 3 - MÉDIA DE PRODUTOS POR ATENDIMENTO (DIÁRIO)
