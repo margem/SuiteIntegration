@@ -112,7 +112,7 @@
 ##### EXEMPLO DE RETORNO 
 
 |       | PDV | DATA | HORA | OPERADOR | SUPERVISOR | CUPOM | VALOR |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | TIPO  | INTERGER | STRING | STRING | STRING | STRING | STRING | FLOAT |
 | VALOR |     1    | 2017-05-05 | 07:40:67 | BRUNA | HELIO | 34575976 | 456.98 |
 
