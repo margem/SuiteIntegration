@@ -171,3 +171,10 @@
 | VALOR | 2017-05-05 | MARCOS | 1 | CREDITO A VISTA     |  12     | 297.98 |
 
 ### 16 - VENDAS TRANSACIONAIS (DIÁRIO)
+
+###### SUGESTÃO DE PARAMETROS: ID E DATA (DATETIME);
+
+##### EXEMPLO DE RETORNO
+
+|       | DATA  | PDV | CUPOM | EAN | DESCRICAO | V.UNITÁRIO | QUANTIDADE | V.TOTAL | DESCONTO | DEPARTAMENTO | CONSUMIDOR |
+| :---: | :---: |:---:| :---: |:---:| :-------: | :--------: | :--------: | :-----: | :------: | :----------: | :--------: |
