@@ -15,40 +15,40 @@
 ###### SUGESTÃO DE PARAMETROS: ID E DATA (DATETIME);
 
 ##### EXEMPLO DE RETORNO
-| TOTAL VENDIDO | CUSTO | LUCRO |
-| :---: | :---: | :---: |
-| FLOAT | FLOAT | FLOAT |
-| 45000 | 27000 | 18000 |
+| | TOTAL VENDIDO | CUSTO | LUCRO |
+| :---: | :---: | :---: | :---: |
+| TIPO | FLOAT | FLOAT | FLOAT |
+| VALOR| 45000 | 27000 | 18000 |
 
 ### 2 - TICKET MÉDIO (DIÁRIO)
 
 ###### SUGESTÃO DE PARAMETROS: ID E DATA (DATETIME);
 
 ##### EXEMPLO DE RETORNO 
-| TICKET MÉDIO |
-| :---: |
-| FLOAT |
-| 45000 |
+| | TICKET MÉDIO |
+| :---: | :---: |
+| TIPO  | FLOAT |
+| VALOR | 45000 |
 
 ### 3 - MÉDIA DE PRODUTOS POR ATENDIMENTO (DIÁRIO)
 
 ###### SUGESTÃO DE PARAMETROS: ID E DATA (DATETIME);
 
 ##### EXEMPLO DE RETORNO 
-| PRODUTOS POR ATENDIMENTO |
-| :---: |
-| FLOAT |
-| 45000 |
+| | PRODUTOS POR ATENDIMENTO |
+| :---:| :---: |
+| TIPO | FLOAT |
+| VALOR | 45000 |
 
 ### 4 - CUPONS VÁLIDOS (DIÁRIO)
 
 ###### SUGESTÃO DE PARAMETROS: ID E DATA (DATETIME);
 
 ##### EXEMPLO DE RETORNO 
-| CUPONS |
-| :---: |
-| FLOAT |
-| 45000 |
+| | CUPONS |
+| :---: | :---: |
+| TIPO | FLOAT |
+| VALOR | 45000 |
 
 ### 5 - CUPONS CANCELADOS (DIÁRIO)
 
