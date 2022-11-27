@@ -122,12 +122,21 @@
 
 ##### EXEMPLO DE RETORNO 
 
-|       | ##### DATA   |  HORA  | OPERADOR | SUPERVISOR | CUPOM | VALOR | ITEM | DESCRICAO | EAN |
+|       | DATA   |  HORA  | OPERADOR | SUPERVISOR | CUPOM | VALOR | ITEM | DESCRICAO | EAN |
 | :---: | :---:  | :---:  |   :---:  |   :---:    | :---: | :---: | :---: | :---: | :---: |
 | TIPO  | STRING | STRING |  STRING  |   STRING   | STRING | FLOAT | INTERGER | STRING | STRING |
 | VALOR | 2017-05-05 | 07:40:67 | BRUNA | HELIO | 34575976 | 456.98 | 3 |FRANGO KG | 2002453423 |
 
 ### 12 - VENDAS POR SEÇÕES (DIÁRIO)
+
+###### SUGESTÃO DE PARAMETROS: ID E DATA (DATETIME);
+
+##### EXEMPLO DE RETORNO
+
+| | CODIGO | DESCRICAO | QUANTIDADE | VALOR | CUSTO | LUCRO |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| TIPO | INTERGER | STRING | FLOAT | FLOAT | FLOAT |  FLOAT | 
+| VALOR | 1 | LIMPEZA | 3456.78 | 12789.90 | 6789.10 | 6000.90 |
 
 ### 13 - TOTAL DE CUPONS PROCESSADOS POR OPERADOR (DIÁRIO)
 
