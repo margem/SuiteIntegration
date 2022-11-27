@@ -77,7 +77,7 @@
 
 ##### EXEMPLO DE RETORNO 
 
-| | EAN | DESCRICAO | VALOR UNITÁRIO | QUANTIDADE | VALOR TOTAL | CUSTO | LUCRO |
+| | EAN | DESCRICAO | V.UNITÁRIO | QUANT | V.TOTAL | CUSTO | LUCRO |
 |:---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | COMPOSICAO | STRING | STRING | FLOAT | FLOAT | FLOAT | FLOAT | FLOAT |
 | VALOR      | 7894900709841 | REFR COCA COLA LATA | 7.90 | 3 | 23.70 | 3.25 | 4.65 |
