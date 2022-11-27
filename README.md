@@ -122,7 +122,7 @@
 
 ##### EXEMPLO DE RETORNO 
 
-|       | DATA   |  HORA  | OPERADOR | SUPERVISOR | CUPOM | VALOR | ITEM | DESCRICAO | EAN |
+|       | ##### DATA   |  HORA  | OPERADOR | SUPERVISOR | CUPOM | VALOR | ITEM | DESCRICAO | EAN |
 | :---: | :---:  | :---:  |   :---:  |   :---:    | :---: | :---: | :---: | :---: | :---: |
 | TIPO  | STRING | STRING |  STRING  |   STRING   | STRING | FLOAT | INTERGER | STRING | STRING |
 | VALOR | 2017-05-05 | 07:40:67 | BRUNA | HELIO | 34575976 | 456.98 | 3 |FRANGO KG | 2002453423 |
