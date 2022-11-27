@@ -45,7 +45,7 @@
 ###### SUGESTÃO DE PARAMETROS: ID E DATA (DATETIME);
 
 ##### EXEMPLO DE RETORNO 
-| | CUPONS |
+|       | CUPONS |
 | :---: | :---: |
 | TIPO | INTERGER |
 | VALOR | 45000 |
@@ -55,7 +55,7 @@
 ###### SUGESTAO DE PARAMETROS: ID E DATA (DATETIME);
 
 ##### EXEMPLO DE RETORNO 
-| | CUPONS CANCELADOS|
+|       | CUPONS CANCELADOS |
 | :---: |:---: |
 | TIPO | INTERGER |
 | VALOR |45000
@@ -66,7 +66,7 @@
 
 ##### EXEMPLO DE RETORNO 
 
-| | HORA | VALOR | CUPONS | ITENS | MEDIA ITENS | VEDIA VALOR | 
+|       | HORA | VALOR | CUPONS | ITENS | MEDIA ITENS | VEDIA VALOR | 
 | :---: | :---: | :---: | :---: | :---: |  :---: | :---: | 
 | TIPO | INTEGER | FLOAT | INTEGER | INTERGER | FLOAT | FLOAT |
 | VALOR | 8 | 450.50 | 34 | 230 | 78.4 | 22.30| 
@@ -77,14 +77,29 @@
 
 ##### EXEMPLO DE RETORNO 
 
-| | EAN | DESCRICAO | V.UNITÁRIO | QUANT | V.TOTAL | CUSTO | LUCRO |
+|       | EAN | DESCRICAO | V.UNITÁRIO | QUANT | V.TOTAL | CUSTO | LUCRO |
 |:---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | TIPO | STRING | STRING | FLOAT | FLOAT | FLOAT | FLOAT | FLOAT |
-| VALOR      | 7894900709841 | REFR COCA COLA LATA | 7.90 | 3 | 23.70 | 3.25 | 4.65 |
+| VALOR | 7894900709841 | REFR COCA COLA LATA | 7.90 | 3 | 23.70 | 3.25 | 4.65 |
 
 ### 8 - OS 10000 PRODUTOS MAIS VENDIDOS (DIÁRIO)
 
+###### SUGESTÃO DE PARAMETROS: ID E DATA (DATETIME);
+
+##### EXEMPLO DE RETORNO 
+
+|       | EAN | DESCRICAO | V.UNITÁRIO | QUANT | V.TOTAL | CUSTO | LUCRO |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| TIPO  | STRING | STRING | FLOAT | FLOAT | FLOAT | FLOAT | FLOAT |
+| VALOR | 7894900709841 | REFR COCA COLA LATA | 7.90 | 3 | 23.70 | 3.25 | 4.65 |
+
+
 ### 9 - TOTAL VENDIDO POR MODALIDADE (DIÁRIO)
+
+|       | CODIGO |
+| :---: | :---: |
+| TIPO  | 
+| VALOR |
 
 ### 10 - ESTATORNOS DE CUPONS (DIÁRIO)
 
