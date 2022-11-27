@@ -17,7 +17,7 @@
 ##### EXEMPLO DE RETORNO
 | | TOTAL VENDIDO | CUSTO | LUCRO |
 | :---: | :---: | :---: | :---: |
-| COMPOSICAO | FLOAT | FLOAT | FLOAT |
+| TIPO | FLOAT | FLOAT | FLOAT |
 | VALOR| 45000 | 27000 | 18000 |
 
 ### 2 - TICKET MÉDIO (DIÁRIO)
@@ -27,7 +27,7 @@
 ##### EXEMPLO DE RETORNO 
 | | TICKET MÉDIO |
 | :---: | :---: |
-| COMPOSICAO  | FLOAT |
+| TIPO  | FLOAT |
 | VALOR | 45000 |
 
 ### 3 - MÉDIA DE PRODUTOS POR ATENDIMENTO (DIÁRIO)
@@ -37,7 +37,7 @@
 ##### EXEMPLO DE RETORNO 
 | | PRODUTOS POR ATENDIMENTO |
 | :---:| :---: |
-| COMPOSICAO | FLOAT |
+| TIPO | FLOAT |
 | VALOR | 45000 |
 
 ### 4 - CUPONS VÁLIDOS (DIÁRIO)
@@ -47,7 +47,7 @@
 ##### EXEMPLO DE RETORNO 
 | | CUPONS |
 | :---: | :---: |
-| COMPOSICAO | INTERGER |
+| TIPO | INTERGER |
 | VALOR | 45000 |
 
 ### 5 - CUPONS CANCELADOS (DIÁRIO)
@@ -57,7 +57,7 @@
 ##### EXEMPLO DE RETORNO 
 | | CUPONS CANCELADOS|
 | :---: |:---: |
-| COMPOSICAO | INTERGER |
+| TIPO | INTERGER |
 | VALOR |45000
 
 ### 6 - VENDAS POR FAIXA-HORÁRIA (DIÁRIO)
@@ -68,7 +68,7 @@
 
 | | HORA | VALOR | CUPONS | ITENS | MEDIA ITENS | VEDIA VALOR | 
 | :---: | :---: | :---: | :---: | :---: |  :---: | :---: | 
-| COMPOSICAO | INTEGER | FLOAT | INTEGER | INTERGER | FLOAT | FLOAT |
+| TIPO | INTEGER | FLOAT | INTEGER | INTERGER | FLOAT | FLOAT |
 | VALOR | 8 | 450.50 | 34 | 230 | 78.4 | 22.30| 
 
 ### 7 - OS 200 PRODUTOS MAIS VENDIDOS (DIÁRIO)
@@ -79,7 +79,7 @@
 
 | | EAN | DESCRICAO | V.UNITÁRIO | QUANT | V.TOTAL | CUSTO | LUCRO |
 |:---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| COMPOSICAO | STRING | STRING | FLOAT | FLOAT | FLOAT | FLOAT | FLOAT |
+| TIPO | STRING | STRING | FLOAT | FLOAT | FLOAT | FLOAT | FLOAT |
 | VALOR      | 7894900709841 | REFR COCA COLA LATA | 7.90 | 3 | 23.70 | 3.25 | 4.65 |
 
 ### 8 - OS 10000 PRODUTOS MAIS VENDIDOS (DIÁRIO)
