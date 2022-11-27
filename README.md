@@ -66,7 +66,7 @@
 
 ##### EXEMPLO DE RETORNO 
 
-| HORA | VALOR | CUPONS | ITENS | MEDIA ITENS | VEDIA VALOR | 
+| | HORA | VALOR | CUPONS | ITENS | MEDIA ITENS | VEDIA VALOR | 
 | :---: | :---: | :---: | :---: | :---: |  :---: | :---: | 
 | TIPO | INTEGER | FLOAT | INTEGER | INTERGER | FLOAT | FLOAT |
 | VALOR | 8 | 450.50 | 34 | 230 | 78.4 | 22.30| 
