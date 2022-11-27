@@ -162,4 +162,12 @@
 
 ### 15 - MODALIDADES POR OPERADOR (DIÁRIO)
 
+###### SUGESTÃO DE PARAMETROS: ID E DATA (DATETIME);
+
+##### EXEMPLO DE RETORNO
+|       | DATA   | OPERADOR | CODIGO    | DESCRICAO | QTD    | VALOR |
+| :---: | :---:  | :---:    | :---:     | :---:      | :---:    | :---: |
+| TIPO  | STRING | STRING   | INTERGER  | STRING   | INTERGER | FLOAT   |
+| VALOR | 2017-05-05 | MARCOS | 1 | CREDITO A VISTA     |  12     | 297.98 |
+
 ### 16 - VENDAS TRANSACIONAIS (DIÁRIO)
