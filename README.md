@@ -189,3 +189,4 @@
 ##### EXEMPLO DE RETORNO
 
 | | DATA | CODIGO | CNPJ | VALOR | ICMS | IMP.FERAL | IMP.ESTATUAL | 
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
