@@ -115,8 +115,6 @@
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | TIPO  | INTERGER | STRING | STRING | STRING | STRING | STRING | FLOAT |
 | VALOR |     1    | 2017-05-05 | 07:40:67 | BRUNA | HELIO | 34575976 | 456.98 |
-| VALOR |     3    | 2017-05-05 | 07:40:67 | BRUNA | HELIO | 345756 | 459.98 |
-| VALOR |     2    | 2017-05-05 | 07:40:67 | BRUNA | HELIO | 375976 | 436.98 |
 
 ### 11 - DESCONTOS DE ITENS (DIÁRIO)
 
@@ -128,9 +126,7 @@
 | :---: | :---:  | :---:  |   :---:  |   :---:    | :---: | :---: | :---: | :---: | :---: |
 | TIPO  | STRING | STRING |  STRING  |   STRING   | STRING | FLOAT | INTERGER | STRING | STRING |
 | VALOR | 2017-05-05 | 07:40:67 | BRUNA | HELIO | 34575976 | 456.98 | 3 |FRANGO KG | 2002453423 |
-| VALOR | 2017-05-05 | 07:40:67 | THIARA | HELIO | 34575976 | 456.98 | 3 |FRANGO KG | 2002453423 |
-| VALOR | 2017-05-05 | 07:40:67 | OMAR | HELIO | 34575976 | 456.98 | 3 |FRANGO KG | 2002453423 |
-| VALOR | 2017-05-05 | 07:40:67 | GUSTAVO | HELIO | 34575976 | 456.98 | 3 |FRANGO KG | 2002453423 |
+
 
 ### 12 - VENDAS POR SEÇÕES (DIÁRIO)
 
@@ -152,10 +148,18 @@
 | :---: |   :---:    |   :---:  |   :---: |
 | TIPO  |  INTERGER  |  STRING  |   FLOAT |
 | VALOR |      1     |  MARCOS  | 3456.78 | 
-| VALOR |      14    |  RAFAEL  | 8956.78 | 
-| VALOR |      12    |  WENDELL | 7456.78 |
 
 ### 14 - VENDAS POR VENDEDOR (DIÁRIO)
+
+###### SUGESTÃO DE PARAMETROS: ID E DATA (DATETIME);
+
+##### EXEMPLO DE RETORNO
+
+|       | DATA   | VENDEDOR | VALOR   | QTD CUPONS | ITENS    | MEDIA ITENS | MEDIA VALOR |
+| :---: | :---:  | :---:    | :---:   | :---:      | :---:    | :---:       | :---:       |
+| TIPO  | STRING | STRING   | FLOAT   | INTERGER   | INTERGER | FLOAT       | FLOAT       |
+| VALOR |   1    |  MARCOS  | 3456.78 |   40       |  457     | 2.36        | 165.67      |
+
 
 ### 15 - MODALIDADES POR OPERADOR (DIÁRIO)
 
