@@ -158,7 +158,7 @@
 |       | DATA   | VENDEDOR | VALOR   | QTD CUPONS | ITENS    | MEDIA ITENS | MEDIA VALOR |
 | :---: | :---:  | :---:    | :---:   | :---:      | :---:    | :---:       | :---:       |
 | TIPO  | STRING | STRING   | FLOAT   | INTERGER   | INTERGER | FLOAT       | FLOAT       |
-| VALOR | 2017-05-05 |  MARCOS  | 3456.78 |   40       |  457     | 2.36        | 165.67      |
+| VALOR | 2017-05-05 | MARCOS | 3456.78 |   40     |  457     | 2.36        | 165.67      |
 
 ### 15 - MODALIDADES POR OPERADOR (DIÁRIO)
 
