@@ -176,10 +176,10 @@
 
 ##### EXEMPLO DE RETORNO
 
-|       |  DATA       |   PDV     |      CUPOM    |       EAN      | DESCRICAO  | V.UNITÁRIO | QUANTIDADE | V.TOTAL  | DESCONTO     |      CNPJ    | CONSUMIDOR |
-| :---: | :---------: | :-------: | :-----------: |    :------:    | :-------:  | :--------: | :--------: | :-----:  | :------:     | :----------: | :--------: |
-| TIPO  | STRING      | INTERGER  | STRING        |     STRING     |   STRING   |    FLOAT   |    FLOAT   |  FLOAT   |   FLOAT      |    STRING    |   STRING   |
-| VALOR | 2017-05-05  | 1 | 00102 | 7802800719310 |   AKTIVIA N B  |     2      |     9.5    |  19.0      |   1.6    |    LACTO     | 78539428008  |   10297421 |
+|       |    DATA     |   PDV     |     CUPOM     |       EAN      | DESCRICAO  | V.UNITÁRIO | QUANTIDADE | V.TOTAL  | DESCONTO |     CNPJ    | CONSUMIDOR |
+| :---: | :---------: | :-------: | :-----------: |    :------:    | :-------:  | :--------: | :--------: | :-----:  | :------: | :---------: | :--------: |
+| TIPO  |   STRING    | INTERGER  | STRING        |     STRING     |   STRING   |    FLOAT   |   FLOAT    |  FLOAT   |   FLOAT  |    STRING   |   STRING   |
+| VALOR | 2017-05-05  | 1 | 00102 | 7802800719310 |   AKTIVIA N B  |     2      |     9.5    |    19.0    |   1.6    |   LACTO  | 78539428008 |  10297421  |
 
 
 ### 17 - CUPONS TRANSACIONAIS (DIÁRIO)
